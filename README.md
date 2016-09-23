@@ -1,10 +1,9 @@
 ##相关资源
 
-* 开发群：QQ（452137839）
+* 开发群：QQ（333214597）
 
 * 开发工具 v0.7
-	* 百度: https://pan.baidu.com/s/1pLTKIqJ （密码: iswg）
-	* 360: https://yunpan.cn/ckvTYFHWzYYFV （提取码：e09b）
+  百度：链接：http://pan.baidu.com/s/1kVwcVLP 密码：2a3j
 
 * 开发工具 v0.9
   * 百度: https://pan.baidu.com/s/1pLTKIqJ （密码: iswg）
